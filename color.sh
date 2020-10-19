@@ -23,7 +23,7 @@ case $color in
 	"YELLOW")	echo "$color's selected"
 			selected_color=$yellow
 			;;
-	"PURPLE")	echo "$color's selected"
+	"MAGENTA")	echo "$color's selected"
 			selected_color=$magenta
 			;;
 	"GREEN")	echo "$color's selected"
